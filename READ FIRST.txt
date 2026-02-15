@@ -1,1 +1,2 @@
 Press "O" on your keyboard to active the performance mod 
+make sure that if you are using modrinth that you change the forge version 47.4.10 or this will likely not work!
